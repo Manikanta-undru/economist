@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: 'EconSansReg';
+    src: url('../fonts/EconSansReg/EconSansReg.eot');
+    src: url('../fonts/EconSansReg/EconSansReg.eot') format('embedded-opentype'),
+         url('../fonts/EconSansReg/EconSansReg.woff2') format('woff2'),
+         url('../fonts/EconSansReg/EconSansReg.woff') format('woff'),
+         url('../fonts/EconSansReg/EconSansReg.ttf') format('truetype'),
+         url('../fonts/EconSansReg/EconSansReg.svg#EconSansReg') format('svg');
+}
